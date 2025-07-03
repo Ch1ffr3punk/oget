@@ -1,0 +1,8 @@
+{
+  "onion_address": "your_onion.address",
+  "username": "your_username",
+  "password": "your_password",
+  "remote_dir": "inbox",
+  "local_dir": "downloads",
+  "proxy_addr": "127.0.0.1:9050"
+}
